@@ -1,6 +1,6 @@
 # README
 
-Moteur de recherche lié aux fiches de bugs
+Moteur de recherche lié aux fiches de bugs EZV
 
 Things you may want to cover:
 
