@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero: MyString
+  titre: MyString
+  analyse: MyString
+  statut: MyString
+  beneficiaire: MyString
+  sujet: MyString
+  statut: MyString
+
+two:
+  numero: MyString
+  titre: MyString
+  analyse: MyString
+  statut: MyString
+  beneficiaire: MyString
+  sujet: MyString
+  statut: MyString
